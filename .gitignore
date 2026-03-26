@@ -1,0 +1,32 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.vs/
+.vs/
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+## NuGet
+*.nupkg
+**/packages/*
+project.lock.json
+project.fragment.lock.json
+
+## IDE
+.idea/
+*.sln.iml
+
+## Test results
+TestResults/
+BenchmarkDotNet.Artifacts/
+
+## Generated files
+*.txt
+!appsettings*.json

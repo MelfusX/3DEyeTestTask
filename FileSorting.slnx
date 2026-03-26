@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/FileSorting.Domain/FileSorting.Domain.csproj" />
+    <Project Path="src/FileSorting.Generation/FileSorting.Generation.csproj" />
+    <Project Path="src/FileSorting.Generator.App/FileSorting.Generator.App.csproj" />
+    <Project Path="src/FileSorting.Sorter.App/FileSorting.Sorter.App.csproj" />
+    <Project Path="src/FileSorting.Sorting/FileSorting.Sorting.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/FileSorting.Benchmarks/FileSorting.Benchmarks.csproj" />
+    <Project Path="tests/FileSorting.Tests/FileSorting.Tests.csproj" />
+  </Folder>
+</Solution>
